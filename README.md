@@ -23,10 +23,6 @@
 
 <image src="img/Подтверждение на кошельках!.png" alt="wind">
 
-Создадим приложение и запустим index.js
-
-<image src="img/Запуск index.js.png" alt="wind">
-
 Создадим программу и получим ключи для сети testnet, которые начинаются с с!!! Wallet_Bitcoin\key.js
 
 <image src="img/Создание тестовых.png" alt="wind">
