@@ -1,0 +1,33 @@
+{
+  "name": "wallet_bitcoin",
+  "version": "1.0.0",
+  "description": "Это проект кошелька Bitcoin, использующий bitcoinjs-lib для управления транзакциями и адресами.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Uladzimir1367/Wallet_Bitcoin.git"
+  },
+  "keywords": [
+    "bitcoin",
+    "cryptocurrency",
+    "wallet",
+    "blockchain",
+    "bitcoinjs"
+  ],
+  "author": "Uladzimir Kharkavets",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Uladzimir1367/Wallet_Bitcoin/issues"
+  },
+  "homepage": "https://github.com/Uladzimir1367/Wallet_Bitcoin#readme",
+  "dependencies": {
+    "bip32": "^4.0.0",
+    "bitcoinjs-lib": "^6.1.5",
+    "ecpair": "^2.1.0",
+    "tiny-secp256k1": "^2.2.3"
+  }
+}
